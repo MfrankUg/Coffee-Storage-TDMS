@@ -6,12 +6,7 @@ https://tdmsfinal.vercel.app/
 ## Overview
 
 
-
 ## Deployment
-
-
-
-## Build your app
 
 
 ## How It Works
