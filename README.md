@@ -56,8 +56,7 @@ The **Coffee Storage TDMS** (Temperature, Dust, Moisture Sensor) Dashboard is an
 └────────▶│ Supabase DB│◀─────────────┘
 └─────────────┘
 
-shell
-Copy code
+
 
 ### 🧩 Component Tree (Frontend)
 
@@ -81,8 +80,6 @@ scripts/
 ├── pattern_recognition.py
 └── ai_recommendation_engine.py
 
-markdown
-Copy code
 
 ---
 
@@ -210,8 +207,7 @@ For major changes, open an issue first to discuss what you’d like to change.
 
 Steps:
 
-bash
-Copy code
+
 git checkout -b feature/your-feature
 git commit -m "Add new feature"
 git push origin feature/your-feature
@@ -229,12 +225,5 @@ Email: [your.email@example.com] (optional)
 
 Empowering smarter agriculture through data-driven coffee storage ☕🌱
 
-yaml
-Copy code
-
----
-
-✅ You can now copy and paste this into your GitHub repo’s `README.md`.  
-Want help turning this into a landing page or project site too?
 
 
