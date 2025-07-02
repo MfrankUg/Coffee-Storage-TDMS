@@ -221,8 +221,6 @@ GitHub: @MfrankUg
 
 LinkedIn: linkedin.com/in/frankmuhindo
 
-Email: [your.email@example.com] (optional)
-
 Empowering smarter agriculture through data-driven coffee storage ☕🌱
 
 
