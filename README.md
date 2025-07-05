@@ -24,6 +24,8 @@ Displays current readings on LCD
 
 Triggers buzzer alerts when thresholds are exceeded
 
+![image alt](https://github.com/MfrankUg/TemperatureAndDustMonitoringSystem/blob/8a42354803c0a8d224fa2d5c2ec76c195762e87a/iot%20image.jpg)
+
 ## 🔌 Setup Summary
 Connect sensors and LCD to ESP32 pins
 
