@@ -219,7 +219,7 @@ Frank Muhindo
 
 GitHub: @MfrankUg
 
-LinkedIn: linkedin.com/in/frankmuhindo
+LinkedIn:  https://www.linkedin.com/in/frank-muhindo-b269611b3
 
 Empowering smarter agriculture through data-driven coffee storage ☕🌱
 
