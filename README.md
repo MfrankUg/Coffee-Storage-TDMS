@@ -216,11 +216,6 @@ This project is licensed under the MIT License.
 
 🙋 Author
 Frank Muhindo and team Group 15
-
-GitHub: @MfrankUg
-
-LinkedIn:  https://www.linkedin.com/in/frank-muhindo-b269611b3
-
 Empowering smarter agriculture through data-driven coffee storage ☕🌱
 
 
