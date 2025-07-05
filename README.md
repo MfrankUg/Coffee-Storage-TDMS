@@ -6,6 +6,7 @@ https://tdmsfinal.vercel.app/
 A smart environmental monitoring and analytics dashboard built for coffee warehouses to maintain optimal storage conditions using real-time IoT data and AI-powered predictions.
 
 ---
+![image alt](https://github.com/MfrankUg/TemperatureAndDustMonitoringSystem/blob/db39512041ef2ec3b78f28416044308697570f3a/upstate.jpg)
 
 ## 📋 Table of Contents
 1. [Overview](#overview)
