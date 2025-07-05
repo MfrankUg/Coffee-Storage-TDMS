@@ -1,4 +1,4 @@
-# TDMS dashboard
+# TDMS dashboard and IOT
 Project deployed and you can try it out 
 https://tdmsfinal.vercel.app/
 
