@@ -1,6 +1,9 @@
 ## 🌐 IoT Module Section for  TDMS Project
 This module handles real-time environmental data collection in coffee storage warehouses using ESP32-based IoT devices.
 
+
+![image alt](https://github.com/MfrankUg/TemperatureAndDustMonitoringSystem/blob/d6115d99a769bcdaa017347da03baf8583209e81/system.jpg)
+
 ## 📦 Components Used
 ESP32 (Wi-Fi enabled microcontroller)
 
