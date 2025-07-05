@@ -1,9 +1,8 @@
 # TDMS dashboard and IOT
-Project deployed and you can try it out 
+Project deployed and you can try it out 🤗. 
 https://tdmsfinal.vercel.app/
 
-# ☕ Coffee Storage TDMS - Temperature & Dust Monitoring System
-
+#  TDMS - Temperature & Dust Monitoring System for ☕ Coffee Storage 
 A smart environmental monitoring and analytics dashboard built for coffee warehouses to maintain optimal storage conditions using real-time IoT data and AI-powered predictions.
 
 ---
@@ -215,7 +214,7 @@ git push origin feature/your-feature
 This project is licensed under the MIT License.
 
 🙋 Author
-Frank Muhindo
+Frank Muhindo and team Group 15
 
 GitHub: @MfrankUg
 
