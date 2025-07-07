@@ -1,12 +1,5 @@
 // Wi-Fi credentials
-#define WIFI_SSID1 "derrickPhone"
-#define WIFI_PASSWORD1 "12345678"
-#define WIFI_SSID2 "RnD"
-#define WIFI_PASSWORD2 "MegaBytes..."
-#define WIFI_SSID3 "@idiot"
-#define WIFI_PASSWORD3 "hook5000"
-#define WIFI_SSID "ROBOTICS 2024"
-#define WIFI_PASSWORD "MegaBytes..."
+
 #define WIFI_SSID4 "CoDePro"
 #define WIFI_PASSWORD "frank1122"
 
